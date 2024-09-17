@@ -1,7 +1,7 @@
 [
   {
     "name": "Normal",
-    "main": "Application",
+    "main": "net.runelite.client.RuneLite",
     "bootstrap": "https://raw.githubusercontent.com/frogsniper1/bootstrap/main/bootstrap-stable.json",
     "bootstrapsig": "https://raw.githubusercontent.com/frogsniper1/bootstrap/main/bootstrap-stable.json.sha256",
     "tooltip": "The Latest most stable Client"
